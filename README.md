@@ -1,6 +1,6 @@
 ### Hi there 👋, Aytac Bagirova
 #### I am a Software Engineering Student
-![I am a Software Engineering Student]
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub+Page)
 ## About Me
 
